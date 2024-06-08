@@ -100,7 +100,7 @@ public class SinglyLinkedList {
     }
 
     public void remove(int index) {
-        if (index < 0 || index >= size) {
+        if (index < 0 || index > size) {
             throw new IndexOutOfBoundsException("Index out of bounds");
         }
         Node current = head;
