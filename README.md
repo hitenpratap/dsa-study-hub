@@ -29,7 +29,12 @@ Welcome to the DSA Study Hub! This repository is a comprehensive resource for le
 - [CircularSinglyLinkedList Implementation](app/src/main/java/com/hprog99/dsa/linkedlist/CircularSinglyLinkedList.java)
 
 ## Stack
-- [Stack Implementation](#)  <!-- Replace with actual link -->
+
+### Fixed Size Array Implementation
+- [FixedSizeArrayStack Implementation](app/src/main/java/com/hprog99/dsa/stack/FixedSizeArrayStack.java)
+
+### Dynamic Size Array Implementation
+- [DynamicSizeArrayStack Implementation](app/src/main/java/com/hprog99/dsa/stack/DynamicArrayStack.java)
 
 ## Queue
 - [Queue Implementation](#)  <!-- Replace with actual link -->
