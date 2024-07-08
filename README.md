@@ -36,6 +36,9 @@ Welcome to the DSA Study Hub! This repository is a comprehensive resource for le
 ### Dynamic Size Array Implementation
 - [DynamicSizeArrayStack Implementation](app/src/main/java/com/hprog99/dsa/stack/DynamicArrayStack.java)
 
+### LinkedList Implementation
+- [LinkedList Implementation](app/src/main/java/com/hprog99/dsa/stack/LinkedListStack.java)
+
 ## Queue
 - [Queue Implementation](#)  <!-- Replace with actual link -->
 
